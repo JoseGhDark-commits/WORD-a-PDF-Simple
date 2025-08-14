@@ -1,0 +1,7 @@
+Flask==2.3.3
+python-docx2pdf==0.1.8
+python-docx==0.8.11
+pypandoc==1.12
+reportlab==4.0.7
+Werkzeug==2.3.7
+pywin32==306; sys_platform == "win32"
