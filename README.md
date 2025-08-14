@@ -167,6 +167,6 @@ FLASK_SECRET_KEY=tu-clave-secreta-super-segura
 
 ## 📄 Copyright
 
-**© 2024 JoseGhDark LTD.** Todos los derechos reservados.
+**© 2025 JoseGhDark-commits.** Todos los derechos reservados.
 
-_Desarrollado con ❤️ usando Python Flask + HTML5 + CSS3_
+_Desarrollado con mucho café y usando Python Flask + HTML5 + CSS3_
